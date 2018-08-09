@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-submail.git"
+    "url": "git+https://github.com/bugall/egg-submail.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/bugall/egg-submail/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-submail#readme",
+  "homepage": "https://github.com/bugall/egg-submail#readme",
   "author": "bugall",
   "license": "MIT"
 }
